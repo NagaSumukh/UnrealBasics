@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/Blueprints/DoorBlueprint/BP_Door.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2P/885QE6JVFWRDPNZD7OEFDQ.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/Blueprints/Health/BP_Damage.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/9C/FBAAPE5RMOAICEDIEMZ4YU.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/Blueprints/Health/HealthBar_W.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/StarterContent/Props/SM_Door.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/Blueprints/Menu.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/UIAssets/Button_Hovered.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/UIAssets/Button_Normal.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/UIAssets/HealthBar_Background.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/UIAssets/HealthBar_Fill.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/UIAssets/Menu_BG.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/StartLevel.umap",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/StartGameMode.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/StartGamePawn.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/Inventory.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/Item.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/ZL/2WZ1FZQOTHKXHY01F8PMU4.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KK/E87Y5QBMM5MXUTX1WN708T.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0M/LWKNQ38DE6RNZXK5IEK2I4.uasset",
+				"/Users/nagasumukhhd/Documents/Unreal Projects/BlurprintBeginner/Content/BPI_PickUp.uasset"
+			]
+		}
+	]
+}
